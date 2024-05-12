@@ -36,6 +36,7 @@
 #define SOLUM_M3_BWY_22 0x39
 #define SOLUM_M3_BWR_26 0x32
 #define SOLUM_M3_BWY_26 0x3A
+#define SOLUM_M3_BWR_27 0x44
 #define SOLUM_M3_BWR_29 0x33	// the 'standard' SSD1619 version
 #define SOLUM_M3_BWY_29 0x3B
 #define SOLUM_M3_BW_29 0x40
@@ -84,6 +85,7 @@
 #define STYPE_SIZE_016 0x40
 #define STYPE_SIZE_022 0x41
 #define STYPE_SIZE_026 0x43
+#define STYPE_SIZE_027 0x44
 #define STYPE_SIZE_029 0x42
 #define STYPE_SIZE_029_BW 0x4E
 #define STYPE_SIZE_029_FREEZER 0x22
